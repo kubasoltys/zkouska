@@ -1,0 +1,355 @@
+body {
+  font-family: 'Karla', sans-serif;
+  background-color: rgb(11, 11, 13);
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+hr {
+  width: 20%;
+  margin-left: 40%;
+  border-radius: 25px;
+  border: 3px solid white;
+  margin-bottom: 100px;
+}
+
+img {
+  border-radius: 10px;
+  border: 2px solid none;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+
+.header-home {
+  background-image: url('../img/header/index.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 50px;
+}
+
+.header-geografie {
+  background-image: url('../img/header/index1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 50px;
+}
+
+.header-historie {
+  background-image: url('../img/header/index2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 50px;
+}
+
+.header-gastronomie {
+  background-image: url('../img/header/index3.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 50px;
+}
+
+.header-priroda {
+  background-image: url('../img/header/index4.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 50px;
+}
+
+.header-informace {
+  background-image: url('../img/header/index5.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 50px;
+}
+
+
+
+.header-content {
+  padding: 20px;
+}
+
+.header-title {
+  font-size: 54px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.header-podnadpis1 {
+  margin-top: 20px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: center;
+}
+
+.header-podnadpis2-zeleny {
+  color: rgb(54, 208, 54);
+}
+
+.header-podnadpis2-cerveny {
+  color: rgb(208, 54, 54);
+}
+
+
+
+.index-celek {
+  margin-top: 120px;
+}
+
+.index-hlavni-nadpis {
+  margin-top: 10px;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(54, 208, 54);
+}
+
+.index-odstavec1 {
+  margin-top: 45px;
+  text-align: center;
+  color: rgb(194, 194, 194);
+}
+
+
+
+.konec {
+  background-image: url(../img/mapa.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 170px;
+}
+
+.konec-text1 {
+  padding: 110px;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+
+.konec-text2 {
+  color: rgb(208, 54, 54);
+  text-align: center;
+}
+
+
+
+.button {
+  height: 50px;
+  width: 100px;
+  text-align: center;
+}
+
+
+
+.index-odstavec2 {
+  color: rgb(193, 193, 193);
+  text-align: center;
+}
+
+
+.index-nadpis1 {
+  color: rgb(208, 54, 54);
+  font-size: 40px;
+}
+
+.index-nadpis2 {
+  color: rgb(67, 208, 54);
+  font-size: 40px;
+}
+
+
+
+.footer {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+
+.uvodnitext {
+  margin-top: 100px;
+  color: rgb(194, 194, 194);
+  text-align: center;
+  font-size: 20px;
+}
+
+.uvodnitext-info {
+  margin-top: 100px;
+  color: rgb(194, 194, 194);
+  font-size: 20px;
+}
+
+
+
+.main-nadpisy-zelene {
+  color: rgb(82, 208, 54)
+}
+
+.main-nadpisy-cervene {
+  color: rgb(208, 54, 54)
+}
+
+
+
+.main-nadpisy1 {
+  background-image: url(../img/main-nadpisy/index1/severni-italie.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 80px;
+  font-size: 50px;
+  color: white;
+  margin-top: 100px;
+}
+
+.main-nadpisy2 {
+  background-image: url(../img/main-nadpisy/index1/centralni-italie.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 80px;
+  font-size: 50px;
+  color: white;
+  margin-top: 100px;
+}
+
+.main-nadpisy3 {
+  background-image: url(../img/main-nadpisy/index1/jizni-italie.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 80px;
+  font-size: 50px;
+  color: white;
+  margin-top: 100px;
+}
+
+.main-nadpisy4 {
+  background-image: url(../img/main-nadpisy/index2/shrnuti-historie.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 80px;
+  font-size: 20px;
+  color: white;
+  margin-top: 100px;
+}
+
+.main-nadpisy5 {
+  background-image: url(../img/main-nadpisy/index2/ww2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 80px;
+  font-size: 50px;
+  color: white;
+  margin-top: 100px;
+}
+
+.main-nadpisy6 {
+  background-image: url(../img/main-nadpisy/index4/alpy.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 80px;
+  font-size: 20px;
+  color: white;
+  margin-top: 100px;
+}
+
+.main-nadpisy7 {
+  background-image: url(../img/main-nadpisy/index4/jezera.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 80px;
+  font-size: 20px;
+  color: white;
+  margin-top: 100px;
+}
+
+.main-nadpisy8 {
+  background-image: url(../img/main-nadpisy/index4/toskansko.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 80px;
+  font-size: 20px;
+  color: white;
+  margin-top: 100px;
+}
+
+.main-nadpisy9 {
+  background-image: url(../img/main-nadpisy/index4/ostrovy.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 80px;
+  font-size: 20px;
+  color: white;
+  margin-top: 100px;
+}
+
+
+
+.odstavce-classic {
+  margin-top: 100px;
+  color: rgb(194, 194, 194);
+  font-size: 17px;
+}
+
+.odstavce-obrazky {
+  margin-top: 25px;
+  color: rgb(194, 194, 194);
+  font-size: 17px;
+}
+
+
+
+.spanzeleny {
+  color: rgb(82, 208, 54);
+}
+
+.spancerveny {
+  color: rgb(208, 54, 54);
+}
+
+
+
+.p-barevne {
+  margin-top: 20px;
+}
